@@ -1,5 +1,9 @@
 # BilibiliBlockList
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">BilibiliBlockList</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="http://github.com/jnxyp/BilibiliBlockList" property="cc:attributionName" rel="cc:attributionURL">Jn_xyp&Thiece&BlackGlory</a> 创作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享 署名-非商业性使用 4.0 国际 许可协议</a>进行许可。
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">BilibiliBlockList</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="http://github.com/jnxyp/BilibiliBlockList" property="cc:attributionName" rel="cc:attributionURL">Jn_xyp</a> 创作，采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享 署名-非商业性使用 4.0 国际 许可协议</a>进行许可。
+
+本计划部分规则参考自 Thiece 和 BlackGlory 编写的屏蔽列表，十分感谢。
+
+<a href="http://deerchao.net/tutorials/regex/regex.htm">正则表达式30分钟入门教程 作者：deerchao</a>
 
 介绍
 ====================================================================
@@ -16,3 +20,26 @@
 任何人可以在任何媒介以任何形式复制、发行本作品或者修改、转换或以本作品为基础进行创作。
 惟须遵守下列条件：【署原作者名（Jn_xyp&Thiece&BlackGlory）】并【非商业性使用】。
 
+使用方法
+====================================================================
+1.下载本计划中的最新版屏蔽列表XML文件。
+
+2.打开B站任意视频，点击【屏蔽设定】
+
+3.点击【屏蔽列表】选项卡
+
+4.在下方空白处单击右键，选择【导入XML文件】
+
+5.选择下载的弹幕屏蔽规则，点击导入
+
+6.点击【高级屏蔽】选项卡
+
+7.在自定义屏蔽中，开启【启用屏蔽】和【优化屏蔽】（另建议开启【UP主屏蔽】）
+
+<img src="https://pic1.zhimg.com/435ef942d295f1fde85bea002a22e528_b.png" alt="如何开启【UP主屏蔽】和【优化屏蔽】">
+
+8.成了( •̀ ω •́ )y
+
+如果还是不会↓
+
+<a href="http://blog-thiece-cn-static.smartgslb.com/wp-content/uploads/2013/11/bilibili.gif">GIF使用方法演示（从thiece网站顺来的）</a>
