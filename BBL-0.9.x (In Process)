@@ -118,11 +118,11 @@
   <item enabled="true">t=(?#【发来核电】)发来\S{2,}|[贺核]电</item>
   <item enabled="true">t=(?#【以上企业均】)均已(破产|倒闭)|\S{2,}赞助</item>
   <item enabled="true">t=(?#【XXX.avi】)avi|rmvb|AVI|Avi|RMVB|Player|player|WMV|Wmv|wmv|快播</item>
-  <item enabled="true">t=(?#【滴，穴深卡】)老司机|.{2,}卡|带带我</item>
-  <item enabled="true">t=(?#【MM你XX】)你听我解释|默默[带戴]上耳机|问.*跪</item>
-  <item enabled="true">t=(?#【存货确认】)^.{0,4}阵亡|^存[活货]|^幸存</item>
-  <item enabled="true">t=(?#【交出BGM还是好朋友】)(要|交出|求|问).*(BGM|Bgm|bgm|图包|[音配]乐|歌曲|地址|软件|动漫|封面)|(BGM|Bgm|bgm|图包|[音配]乐|歌曲|地址|软件|动漫|封面).{0,3}(啥|什么)|还是好朋友</item>
-  <item enabled="true">t=(?#【失踪人口回归，挖坟】)(失踪|死亡)(人[口员]|up(主){0,})|(人[口员]|up(主){0,})回归|考古|挖坟|巨坟|有生之年|洛阳铲|李敏镐</item>
+  <item enabled="true">t=(?#【老司机相关】)老司机|.{2,}卡|带带我</item>
+  <item enabled="true">t=(?#【听我解释】)你听我解释|默默[带戴]上耳机|问.*跪</item>
+  <item enabled="true">t=(?#【存活确认】)^.{0,4}阵亡|^存[活货]|^幸存</item>
+  <item enabled="true">t=(?#【伸手党相关】)(要|交出|求|问).*(BGM|Bgm|bgm|图包|[音配]乐|歌曲|地址|软件|动漫|封面)|(BGM|Bgm|bgm|图包|[音配]乐|歌曲|地址|软件|动漫|封面).{0,3}(啥|什么)|还是好朋友</item>
+  <item enabled="true">t=(?#【挖坟相关】)(失踪|死亡)(人[口员]|up(主){0,})|(人[口员]|up(主){0,})回归|考古|挖坟|巨坟|有生之年|洛阳铲|李敏镐</item>
   <item enabled="true">t=(?#【音乐鬼畜区输了】)(音乐|鬼畜)区.*(战|投降|输|赢)</item>
   <item enabled="true">t=(?#【镇站之宝】)镇[站区店]之宝|万恶之源</item>
   <item enabled="true">t=(?#【这不科学】)不(科学|魔法)</item>
