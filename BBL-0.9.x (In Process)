@@ -145,7 +145,7 @@
   <item enabled="true">t=(?#【其他词语】)前列腺|白带</item>
   <item enabled="true">t=(?#【我选择死亡】)选择.{0,3}死亡</item>
   <item enabled="true">t=(?#【真当XX不上XX】)(真当|当真).{1,7}不[上去看]</item>
-  <item enabled="true">t=(?#【报警】)110|120|119|报警|举报|[妖药腰][妖药腰][灵零令]</item>
+  <item enabled="true">t=(?#【报警，报复社会】)110|120|119|报警|举报|[妖药腰][妖药腰][灵零令]|报[复答]社会</item>
   <item enabled="true">t=(?#【三次元神器合集】)板砖|诺基亚|[Gg][Tt][Xx][①②③④⑤⑥⑦⑧⑨０１２３４５６７８９0-9 〇一二两俩三仨四五六七八九十零百千万亿Ww]{1,3}</item>
   <item enabled="true">t=(?#【CCTV相关】)走近.{0,2}(科学|魔法)|CCTV|cctv|Cctv|CCAV|ccav|Ccav|新.{0,5}闻.{0,5}联.{0,5}播|中央台|春晚</item>
   <item enabled="true">t=(?#【查水表，送快递】)快递|(水|电|气)表|送温暖</item>
