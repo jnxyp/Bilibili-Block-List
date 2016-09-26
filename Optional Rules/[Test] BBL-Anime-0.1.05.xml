@@ -1,0 +1,14 @@
+<filters>
+  <item enabled="true">t=◎哔哩哔哩正则屏蔽列表-动漫屏蔽用_版本：0.1.05</item>
+  <item enabled="true">t=◎吐槽【为满足各位屏蔽需求，特此设立动漫人物及梗用屏蔽列表】</item>
+  <item enabled="true">t=◎作者【Jn_xyp】</item>
+  <item enabled="true">t=◎授权 本作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。转载需注明作者，不得用于商业用途。</item>
+  <item enabled="true">t=◎特别感谢【Thiece】【BlackGlory】【deerchao】</item>
+  <item enabled="true">t=◎感谢 （沙发空缺，快来抢~）</item>
+  <item enabled="true">t=◎顺便谢谢 【大黄】方便面*4包支持 【学霸】精神支持 【萎德】粗鄙支持 【香蕉树】鬼畜支持</item>
+  <item enabled="true">t=◎加Ｘ在前代表有争议，加Ｔ在前代表测试【这是屏蔽示例】意见反馈请贴吧@Jn_xyp或邮件到jinan.xyp@gmail.com</item>
+  <item enabled="true">t=(?#【舰Ｘ】)poi(?!nt)|Poi(?!nt)|POI|舰娘|大建|[氪克]金|抽卡</item>
+  <item enabled="true">t=(?#【机巧少女】)充气|漏气|日日夜夜|不会[怀受]孕|机巧少女</item>
+  <item enabled="true">t=(?#【刀剑神域】)马云我[赐刺]你姨妈|桐[人子]|(亚[斯丝]|本子)[娜那]|刀剑|桐亚|诗乃|结衣</item>
+  <item enabled="true">t=(?#【罪恶王冠】)樱满集|集王|楪祈|祈妹|怀中抱妹</item>
+</filters>

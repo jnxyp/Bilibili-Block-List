@@ -5,7 +5,7 @@
   <item enabled="true">t=◎授权 本作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。转载需注明作者，不得用于商业用途。</item>
   <item enabled="true">t=◎特别感谢【Thiece】【BlackGlory】【deerchao】</item>
   <item enabled="true">t=◎感谢（均为百度贴吧ID，排名不分先后）【_章程_】【Incredible灵动】【ssslos】【知白Dive】【点草丶麻花疼】【食谱D铭】【liuyuzhelyzlyz】【445621607】【LOOK冯】【依米的泪】【doczhang2000】【最果いの神狐】【这ID才没有卖萌】【toread2614】【如梦似幻20】</item>
-  <item enabled="true">t=◎谢谢 【大黄】方便面*4包支持 【学霸】精神支持 【萎德】粗鄙支持 【香蕉树】鬼畜支持</item>
+  <item enabled="true">t=◎顺便谢谢 【大黄】方便面*4包支持 【学霸】精神支持 【萎德】粗鄙支持 【香蕉树】鬼畜支持</item>
   <item enabled="true">t=◎加Ｘ在前代表有争议，加Ｔ在前代表测试【这是屏蔽示例】意见反馈请贴吧@Jn_xyp或邮件到jinan.xyp@gmail.com</item>
   <item enabled="true">t=(?#Ｔ【屏蔽抢前排A】)^\S{0,4}第[①②③④⑤⑥⑦⑧⑨０１２３４５６７８９0-9 〇一二两俩三仨四五六七八九十零百千万亿几Ww]{1,4}\S{0,6}$</item>
   <item enabled="true">t=(?#Ｔ【屏蔽抢前排B】)(前|钱|[Qq][Ii][Aa][Nn])[①②③④⑤⑥⑦⑧⑨０１２３４５６７８９0-9 〇一二两俩三仨四五六七八九十零百千万亿几Ww]{1,4}</item>

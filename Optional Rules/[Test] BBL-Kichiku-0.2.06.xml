@@ -1,0 +1,23 @@
+<filters>
+  <item enabled="true">t=◎哔哩哔哩正则屏蔽列表-鬼畜屏蔽用_版本：0.2.06</item>
+  <item enabled="true">t=◎吐槽【为满足各位屏蔽需求，特此设立鬼畜用屏蔽列表】</item>
+  <item enabled="true">t=◎作者【Jn_xyp】</item>
+  <item enabled="true">t=◎授权 本作品采用知识共享署名-非商业性使用 4.0 国际许可协议进行许可。转载需注明作者，不得用于商业用途。</item>
+  <item enabled="true">t=◎特别感谢【Thiece】【BlackGlory】【deerchao】</item>
+  <item enabled="true">t=◎感谢 （沙发空缺，快来抢~）</item>
+  <item enabled="true">t=◎顺便谢谢 【大黄】方便面*4包支持 【学霸】精神支持 【萎德】粗鄙支持 【香蕉树】鬼畜支持</item>
+  <item enabled="true">t=◎加Ｘ在前代表有争议，加Ｔ在前代表测试【这是屏蔽示例】意见反馈请贴吧@Jn_xyp或邮件到jinan.xyp@gmail.com</item>
+  <item enabled="true">t=(?#【蓝翔】)挖掘机|蓝翔|哪家强|北大青鸟|新东方|那么问题来了</item>
+  <item enabled="true">t=(?#【金坷垃】)金[坷可氪克][垃啦辣]|两米地下|肥料涨价|农业危害大|[氮蛋但旦][磷林淋][钾假甲]|美美|日日|非非|美日非|[Ss]heng[Dd]i[Yy]a[Gg]e|([Gg]old|[Jj]in)[Kk]e[Ll]a|阿妹你看|[上圣][帝地第][压呀亚][狗哥]</item>
+  <item enabled="true">t=(?#【贝爷】)鸡肉味|嘎嘣脆|去.*头.*可以吃|蛋白质是.*|食物链顶端|贝爷</item>
+  <item enabled="true">t=(?#【诸葛亮】)[猪诸]葛|王([郎狼朗浪]|司徒)|村[妇夫]|粗鄙|厚颜无耻|(狗|[Gg][Oo][Uu]|够|苟)(逼|[Bb]|屄|比|哔)|先帝|王八|两军(将士|阵前)|[都督嘟][都督嘟]</item>
+  <item enabled="true">t=(?#【哲学】)哲.{0,3}学|兄.{0,3}贵|比.{0,3}利|搞.{0,3}基|♀|♂|[Yy][oO0]{3,}|海灵顿|王[的之の]|屄|尻|[Ff]a(?!ir|ce)|[买卖]萧|[Aa][Ss].*[Ww][Ee].*[Cc][Aa][Nn]|[Ff][Uu@][Cc][Kk].*[Yy][Oo][Uu]|[帕怕啪]秋[梨莉丽]</item>
+  <item enabled="true">t=(?#【成龙】)Duang|duang|DUANG|加特[技效]|很[黑亮]|我是拒绝的|.{1,3}的(成分|特[技效])|很[黑亮油Yy]|根本没有头发</item>
+  <item enabled="true">t=(?#【元首】)气死[偶俺][列哩啦辣咧类勒嘞]|大屁股裂了|[泥尼拟][玛妈][死屎]|到河北省来|[斯死屎湿][大达][林勒]|搞比利|敢..俺妹|[吃喷]粪|[渣喳][渣喳]|屎蛋|[神秘迷蜜].颤抖|这星期|富兰克林|搞.*阿凡提|肛.*好棒|反了[他她它]|我[不没].你爸|[嫂骚]夫人|[bB]iu</item>
+  <item enabled="true">t=(?#【德国BOY】)运动会不要[再在]搞|三岁小孩|一切都是[屁Pp]|练功发自真心|天朝人民万岁|弄他妈|俺爸瞎[啦了]</item>
+  <item enabled="true">t=(?#【葛平】)小朋友们|绕口令|八百标兵|奔北坡|(mi|Mi|咪|米|眯){3,}|(ma|Ma|吗|马|妈|嘛|码){3,}|蓝猫|淘气|三千[问吻]|光头|吴克|天心阁</item>
+  <item enabled="true">t=(?#【索尼】)索尼大法好|姨夫.*拒绝|大法.*真相</item>
+  <item enabled="true">t=(?#【LL大法好，退教保平安】)[lL]{2,}.*(大法|邪教)|永远.{0,3}\S{1,3}岁|[退入].*[教党团法]|[Ll]ove[Ll]ive</item>
+  <item enabled="true">t=(?#【FFF】)FFF团|fff团|不烧真爱|不能烧|f{3,}|F{3,}|异性恋|同性恋|一根火把|火把.*汽油|汽油.*火把</item>
+  <item enabled="true">t=(?#【AIPC】)[Aa][Ii][Pp][Cc]|开机.*死机|[Yy][Oo][Uu].*[Ss][Bb]|三星.*(CPU|cpu)|才叫爽|放大放大[再]在放大|毛.*清清楚楚|天[呐那哪].*(病毒|蓝屏|[软硬]件)|网吧.*学习</item>
+</filters>
