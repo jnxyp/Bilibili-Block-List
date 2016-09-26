@@ -57,7 +57,6 @@
   <item enabled="true">t=(?#【考试】)[求|我|祝|保佑].*[考|上]|保佑.*[我|前|不|挂]|考神</item>
   <item enabled="true">t=(?#【会员是什么】)[什么怎啥].*会员|会员.*[什么怎啥啊]|会员.*世界</item>
   <item enabled="true">t=(?#【xxx我知道你再看】)我知道你.{0,1}[在再能]看|[我只唯][宣爱]</item>
-  <item enabled="true">t=(?#【大天使之剑！！】)战舰世界|大天使之剑|战舰少女</item>
   <item enabled="true">t=(?#【毁我大XX】)毁我.*|毁在</item>
   <item enabled="true">t=(?#【你MB,CNM】)[你我他她它老泥尼拟死妳伱妮呢][母马妈玛妹奶娘煤](?!妈|奶|娘|亲|呀)|(NMB|nmb|Nmb|NIMABI|nimabi|C.{0,5}N.{0,5}M|c.{0,5}n.{0,5}m|fuck|FUCK|Fuck)(?!a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z|A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z)</item>
   <item enabled="true">t=(?#【XX的本子我都看过】)(老婆|媳妇|女儿|儿子|孙子)(的){0,}本子|女((朋){0,}友|人|票)(的){0,}本子</item>
@@ -120,9 +119,8 @@
   <item enabled="true">t=(?#【颜色相关B】)^\W*(天依蓝|乐正红|言和白|基佬[粉紫]|伊藤橙|胖次[白蓝]|帽子绿|[FfEe][FfEe]0000|66[cfCF][cfCF][fcFC][fcFC]|[Ee][Ee][Ff][Ff][Ee][Ee])\W*$</item>
   <item enabled="true">t=(?#【完结撒花】)[完结|玩家].*[撒撤散]花</item>
   <item enabled="true">t=(?#【狼牙路私立断罪小学】).*(小学|附小|中学|初中|高中|附中|中职|高职|职业学院|学院|大学)|^[一二三四五六七八九十]{3,}[小中]</item>
-  <item enabled="true">t=(?#【弹幕护体】)弹.{0,3}幕.{0,3}护.{0,3}体|恶.{0,3}灵.{0,3}退.{0,3}散|精神污染</item>
   <item enabled="true">t=(?#【你不是一个人】)你(们){0,}不是\S{1,}个人|\S{1,}字你\S{1,}</item>
-  <item enabled="true">t=(?#【逝者安息】)逝者安息|无意冒犯</item>
+  <item enabled="true">t=(?#【逝者安息】)逝者安息|无意冒犯|恶.{0,3}灵.{0,3}退.{0,3}散</item>
   <item enabled="true">t=(?#【伏笔，FLAG】)伏笔|Flag|FLAG|flag|[树竖立]旗|怪我</item>
   <item enabled="true">t=(?#【发来核电】)发来\S{2,}|[贺核]电</item>
   <item enabled="true">t=(?#【以上企业均】)均已(破产|倒闭)|\S{2,}赞助</item>
