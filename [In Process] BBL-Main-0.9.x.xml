@@ -21,7 +21,7 @@
   <item enabled="true">t=(?#【Emoji屏蔽测试F】)[🏠🏡🏫🏢🏣🏥🏦🏪🏩🏨💒⛪🏬🏤🌇🌆🏯🏰⛺🏭🗼🗾🗻🌄🚢⛵🚤🚣⚓🚀✈💺🚁🚂🚊🚉🚞🚆🚄🚅🚈🚇🚝🚋🚃🚎🚌🚍🚙🚘🚗🚕🚖🚛🚚🚨🚓🚔🚒🚑🚐🚲🚡🚟🚠🚜💈🚏🎫🚦🚥⚠🚧🔰⛽🏮🎰♨🗿🎪🎭📍🚩]{4,}</item>
   <item enabled="true">t=(?#【屏蔽单字弹幕】)^[^好顶赞棒牛]$</item>
   <item enabled="true">t=(?#【屏蔽空白弹幕】)^\s+$</item>
-  <item enabled="true">t=(?#【单刷屏蔽A-符号连刷】)^\s*([？！/./?/!～~,，。]{1,}|\W{4,})\s*$</item>
+  <item enabled="true">t=(?#【单刷屏蔽A-符号连刷】)^\s*([？！/./?/!～~,，。]{1,})\s*$</item>
   <item enabled="true">t=(?#【单刷屏蔽B-单字连刷】)^\W*(?'ZhCharacter'[\u4e00-\u9fa5])\k'ZhCharacter'{6,}\W*$</item>
   <item enabled="true">t=(?#【符号尾刷】).{1,8}([？！/./?/!～~,，。]{7,})\s*$</item>
   <item enabled="true">t=(?#【单刷屏蔽C】)[啊Aa]{8,}|[哈Hh]{8,}|[呜5u]{7,}|[嗷奥噢]{7,}|[吊屌叼刁弔]{4,}</item>
