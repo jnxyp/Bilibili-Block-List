@@ -107,7 +107,7 @@
   <item enabled="true">t=◎=====以下为PLUS规则=====</item>
   <item enabled="true">r=Ｎ【氪金手游】|乌鸦[坐座]飞机|黑虎阿福|欧气|吸{3,}|玩{3,}|^[好不]玩|[触防猝]不[胜及]防|充钱|充充充|冲[钱了]|氪.?$|我要[充冲].*[亿万百千元]</item>
   <item enabled="true">r=Ｎ【FGO】|乌鸦[坐座]飞机|黑虎阿福</item>
-  <item enabled="true">r=Ｎ【+1s】|续\d[秒Ss]|+/ds|苟利|岂因|图样|图森破|[那拿][义一衣][务服]</item>
+  <item enabled="true">r=Ｎ【+1s】|续\d[秒Ss]|\+\ds|苟利|岂因|图样|图森破|[那拿][义一衣][务服]</item>
   <item enabled="true">r=ＸＸ【非战斗，FBI】|非战斗人员.{0,1}迅速撤离|[Ff][Bb][Ii]|[Ww]arning</item>
   <item enabled="true">r=ＸＸ【233666www】|([23]){10,}|[Ww]{8,}|[6六溜]{10,}</item>
   <item enabled="true">r=Ｘ【工口】|工口|绅.{0,1}士</item>
