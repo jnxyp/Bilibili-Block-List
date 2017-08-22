@@ -1,16 +1,16 @@
 <filters>
   <item enabled="true">t=◎哔哩哔哩正则屏蔽列表-主列表 版本：0.9.169-Plus</item>
   <item enabled="true">t=◎作者【Jn_xyp】</item>
-  <item enabled="true">t=◎更新【本次更新对于大部分规则进行了整理，并适配HTML5播放器的新XML格式】</item>
-  <item enabled="true">t=◎授权 本作品采用知识共享署名-非商业性使用 4.0 进行许可。转载需注明作者，不得用于商业用途。</item>
-  <item enabled="true">t=◎特别感谢【Thiece】【BlackGlory】【deerchao】</item>
-  <item enabled="true">t=◎协助测试【_章程_】【Incredible灵动】【ssslos】【知白Dive】【点草丶麻花疼】【食谱D铭】【liuyuzhelyzlyz】【445621607】【LOOK冯】</item>
-  <item enabled="true">t=◎协助测试【依米的泪】【doczhang2000】【最果いの神狐】【这ID才没有卖萌】【toread2614】【如梦似幻20】【Love丶珍夕】【xiaohaijiang_】【505607625】</item>
-  <item enabled="true">t=◎协助开发【ZeroClad】【sola97】【chenyangsang】【drizztxx】【lishuxuan】【Liu233w】【marcosteam】</item>  
-  <item enabled="true">t=◎协助开发【aleng-zhang】【xyyling】</item>
-  <item enabled="true">t=◎顺便谢谢【Philo】【Cary】【萎德】【香蕉树】【酱玮臣】</item>
-  <item enabled="true">t=◎加Ｘ在前代表有争议，加Ｔ在前代表测试，加Ｎ代表新增\修改【这是屏蔽示例】</item>
-  <item enabled="true">t=◎意见反馈请在[https://github.com/jnxyp/Bilibili-Block-List]发issue或贴吧@Jn_xyp或邮件到jinan.xyp@gmail.com</item>
+  <!--
+  ◎更新【本次更新解决了部分正则表达式的语法兼容性问题，可以与手机端同步】
+  ◎授权 本作品采用知识共享署名-非商业性使用 4.0 进行许可。转载需注明作者，不得用于商业用途。
+  ◎特别感谢【Thiece】【BlackGlory】【deerchao】
+  ◎协助测试【_章程_】【Incredible灵动】【ssslos】【知白Dive】【点草丶麻花疼】【食谱D铭】【liuyuzhelyzlyz】【445621607】【LOOK冯】【依米的泪】【doczhang2000】【最果いの神狐】【这ID才没有卖萌】【toread2614】【如梦似幻20】【Love丶珍夕】【xiaohaijiang_】【505607625】
+  ◎协助开发【ZeroClad】【sola97】【chenyangsang】【drizztxx】【lishuxuan】【Liu233w】【marcosteam】【aleng-zhang】【xyyling】
+  ◎顺便谢谢【Philo】【Cary】【萎德】【香蕉树】【酱玮臣】
+  ◎加Ｘ在前代表有争议，加Ｔ在前代表测试，加Ｎ代表新增\修改【这是屏蔽示例】
+  ◎意见反馈请在[https://github.com/jnxyp/Bilibili-Block-List]发issue或贴吧@Jn_xyp或邮件到jinan.xyp@gmail.com
+  -->
   <item enabled="true">t=◎=====以下为正则规则=====</item>
   <item enabled="true">r=Ｎ【愤青公知A-对内1】|[国國]产|[国國]耻|[国國]人就|[国國]界|[[滚滾]|滾](.{0,5}[吧粗出回]|\s|！)|五.{0,5}毛|自.{0,5}干.{0,5}五|政.{0,5}[治府]|[Zz][Ff]|郑智|症治|和[諧谐]河蟹|民.{0,3}主|皿煮|滋油</item>
   <item enabled="true">r=Ｎ【愤青公知D-对外】|美.{0,5}[分狗]|俄爹|小日本|精日|日杂|鬼子|汉[奸J]|日元|奴性|你[国國]|大[陆陸]|棒子|反[美日韩]</item>
@@ -35,8 +35,8 @@
   <item enabled="true">r=【单刷屏蔽A-符号连刷】|^\s*([？！\.\?\!～~,，。]{1,})\s*$</item>
   <!--【语法兼容性问题】 <item enabled="true">r=【单刷屏蔽B-单字连刷】|^\W*(?'ZhCharacter'[\u4e00-\u9fa5])\k'ZhCharacter'{6,}\W*$</item> -->
   <item enabled="true">r=【单刷屏蔽C】|[啊Aa]{8,}|[哈Hh]{8,}|[呜5u]{7,}|[嗷奥噢]{7,}|[吊屌叼刁弔]{4,}</item>
-  <item enabled="true">r=【单字屏蔽】|痰|屄|尻|娼|嫖|婊|裱|贱|肏|吠|傻(?!孩子)|痴|呸|呕|淫|啐|胴|烂|屎</item>
-  <item enabled="true">r=【你MB,CNM】|[你我他她它老泥尼拟死妳伱妮呢][母马妈玛妹奶娘煤](?!妈|奶|娘|亲)|[^A-Za-z](NMB|nmb|Nmb|NIMABI|nimabi|C.{0,5}N.{0,5}M|c.{0,5}n.{0,5}m|fuck|FUCK|Fuck)[^A-Za-z]</item>
+  <item enabled="true">r=【单字屏蔽】|痰|屄|尻|娼|嫖|婊|裱|贱|肏|吠|傻|痴|呸|呕|淫|啐|胴|烂|屎</item>
+  <item enabled="true">r=【你MB,CNM】|[你我他她它老泥尼拟死妳伱妮呢][母马妈玛妹奶娘煤]|[^A-Za-z](NMB|nmb|Nmb|NIMABI|nimabi|C.{0,5}N.{0,5}M|c.{0,5}n.{0,5}m|fuck|FUCK|Fuck)[^A-Za-z]</item>
   <item enabled="true">r=【争论相关A-关键字】|引战|闭嘴|打脸|素质|[键鍵][盘盤](侠|大手|斗士|[黨党])|喷子|吵架|[撕逼][逼Bb]</item>
   <item enabled="true">r=【争论相关B-句段】|(什么|啥).{0,3}心态|说的好像|有理了|找[打揍骂]|个[屎屁蛋]|[胡瞎乱][说扯Bb逼]|凭(什么|啥)|脑子是个好东西|不服憋着</item>
   <item enabled="true">r=【愤青公知C-对内2】|[共供].{0,5}[产產铲惨].{0,5}[党黨]|[Gg][Cc][Dd]|伟.{0,5}光.{0,5}正|[你我][党黨]|土共]|法[輪轮](功|大法)|姓.{0,5}赵|赵家人|城管</item>
