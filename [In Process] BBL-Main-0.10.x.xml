@@ -149,7 +149,7 @@
   <item enabled="true">r=【三次元神器】|板砖|诺基亚|[Gg][Tt][Xx][①②③④⑤⑥⑦⑧⑨０１２３４５６７８９0-9 〇一二两俩三仨四五六七八九十零百千万亿Ww]{1,3}</item>
   <item enabled="true">r=【二次元神器】|[Ee][Xx]咖喱棒|物理学圣剑|撬棍|贤者之石|死海文书</item>
   <item enabled="true">r=【颜色相关B】|^.{1,3}色$|^\W*(天依蓝|乐正红|言和白|(星尘|基佬)[粉紫]|伊藤橙|胖次[白蓝]|帽子绿|[FfEe][FfEe]0000|66[cfCF][cfCF][fcFC][fcFC]|[Ee][Ee][Ff][Ff][Ee][Ee])\W*$</item>
-  <item enabled="true">r=【完结撒花】|[完结|玩家].*[撒撤散]花</item>
+  <item enabled="true">r=【完结撒花】|完结.*[撒撤散]花</item>
   <item enabled="true">r=【刷学校名】|.*(小学|附小|中学|初中|高中|附中|中职|高职|职业学院|学院|大学)|^[一二三四五六七八九十]{3,}[小中]</item>
   <item enabled="true">r=【你不是一个人】|你(们){0,}不是\S{1,}个人|\S{1,}字你\S{1,}</item>
   <item enabled="true">r=【伏笔，FLAG】|伏笔|Flag|FLAG|flag|[树竖立]旗|怪我</item>
