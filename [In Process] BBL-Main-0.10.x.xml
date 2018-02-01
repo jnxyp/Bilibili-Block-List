@@ -142,7 +142,7 @@
   <item enabled="true">r=【氪金手游】|乌鸦[坐座]飞机|黑虎阿福|欧气|吸{3,}|玩{3,}|^[好不]玩|[触防猝]不[胜及]防|充钱|充充充|冲[钱了]|氪.?$|我要[充冲].*[亿万百千元]</item>
   <item enabled="true">r=【FGO】|乌鸦[坐座]飞机|黑虎阿福</item>
   <item enabled="true">r=【+1s】|续\d[秒Ss]|\+\ds|苟利|岂因|图样|图森破|[那拿][义一衣][务服]|真正的粉丝</item>
-  <item enabled="true">r=【少看X集】|少看.*[多|集|季|部|了]</item>
+  <item enabled="true">r=【少看X集】|少看.*[多集季部了]</item>
   <item enabled="true">r=【男女主废】|[男女]主.{0,3}([渣废弱]|没用)</item>
   <item enabled="true">r=【B站看片】|滑稽|网盘见|B.{0,2}片指.{0,2}待|[囤屯]了</item>
   <item enabled="true">r=【上交国家】|上[交缴][郭国]家</item>
