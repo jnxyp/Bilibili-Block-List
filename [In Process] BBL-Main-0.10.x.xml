@@ -78,7 +78,7 @@
   <item enabled="true">r=【剧透类】|剧透|透剧|人干的|人干事</item>
   <item enabled="true">r=【勾引被撩】|勾引|被撩|撩我|把持不住|先.为敬</item>
   <item enabled="true">r=【XXXbyXX】|[^A-Za-z](by|BY|By)[^A-Za-z]</item>
-  <item enabled="true">r=【考试】|[求|我|祝|保佑].{0,5}[考|上]|保佑.{0,5}[我|前|不|挂]|考神</item>
+  <item enabled="true">r=【考试】|(求|我|祝|保佑).{0,5}[考上]|保佑.{0,5}[我前不挂]|考神</item>
   <item enabled="true">r=【会员是什么】|[什么怎啥].{0,5}会员|会员.{0,5}[什么怎啥啊]|会员.{0,8}世界</item>
   <item enabled="true">r=【xxx我知道你再看】|我知道你.{0,1}[在再能]看|[我只唯][宣爱]</item>
   <item enabled="true">r=【XX的本子我都看过】|(老婆|媳妇|女儿|儿子|孙子)(的){0,}本子|女((朋){0,}友|人|票)(的){0,}本子</item>
