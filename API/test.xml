@@ -88,7 +88,7 @@
   <item enabled="true">r=【我裤子都脱了】|裤子.{0,3}脱|脱.{0,3}裤子</item>
   <item enabled="true">r=【你够了】|([你尼泥拟]|[真也]).{0,3}[够垢]了</item>
   <item enabled="true">r=【OOXX】|[Oo]{1,}[Xx]{1,}|活塞运动</item>
-  <item enabled="true">r=【见X[滚|滾]】|((我){0,}就|我(就){0,}).{0,3}来了|^来了$|见(.){0,}[滚|滾|进]</item>
+  <item enabled="true">r=【见X滚】|((我){0,}就|我(就){0,}).{0,3}来了|^来了$|见(.){0,}[滚滾进]</item>
   <item enabled="true">r=【你行你上】|你行你上|[Yy]ou can you up|can('t|t).*[Bb逼哔]</item>
   <item enabled="true">r=【爱的自杀】|爱的(供[养氧]|自杀)|再问(供[养氧]|自杀)</item>
   <item enabled="true">r=【啪啪啪】|(PA|Pa|pa|啪|帕|拍){3,}|割鸡|小(丁丁|鸡|J|j)|[鸡Jj][巴吧8Bb]|一(硬|石更)</item>
