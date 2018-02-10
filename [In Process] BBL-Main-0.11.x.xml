@@ -1,8 +1,8 @@
 <filters>
-  <item enabled="true">t=◎哔哩哔哩正则屏蔽列表-主列表 版本：0.10.068-Plus</item>
+  <item enabled="true">t=◎哔哩哔哩正则屏蔽列表-主列表 版本：0.10.074-Plus</item>
   <item enabled="true">t=◎作者【Jn_xyp】</item>
   <!--
-  ◎更新【本次更新添加了大量新梗，并对老梗进行查缺补漏】
+  ◎更新【改进部分不规范的规则，修复一些小问题】
   ◎授权 本作品采用知识共享署名-非商业性使用 4.0 进行许可。转载需注明作者，不得用于商业用途。
   ◎特别感谢【Thiece】【BlackGlory】【deerchao】
   ◎协助开发（Github）【ZeroClad】【sola97】【chenyangsang】【drizztxx】【lishuxuan】【Liu233w】【marcosteam】【aleng-zhang】【xyyling】【TimeCompass】
@@ -20,6 +20,8 @@
   <item enabled="true">r=【独享承包】|独享.{0,}(失败|成功)|能.{0,4}独享|([被由]我|偷偷|悄悄|被)(来){0,}承包|休想|承包.{0,5}</item>
   <item enabled="true">r=【粗鄙词语】|脑残|下限|人渣|萌豚|有病|[老劳][资資]|崽子|扇脸|[撕怂]B|丢[你泥尼拟雷累类妮呢伱妮][老楼漏][母某]|扑街|欠(打|日|操|艹|抽|收拾)</item>
   <item enabled="true">r=【负面评价A】|原作|(AV|Av|av|渣|烂|屎).*画质|(水平|片源|画质|BGM|Bgm|bgm|音乐|歌曲|配乐|CV|Cv|cv|声优)(不[行喜]|垃圾|辣鸡)|辣鸡|垃圾|渣渣|用烂|[比没].{1,}[好差强弱跳翻唱说做调剪编拍写早晚原作做隔国國]|(毛|什么)啊|毁我.*|毁在|磨.{0,1}唧</item>
+  <item enabled="true">r=【见X滚】|((我){0,}就|我(就){0,}).{0,3}来了|^来了$|见(.){0,}[滚滾进]</item>
+  <item enabled="true">r=【考试】|(求|我|祝|保佑).{0,5}[考上]|保佑.{0,5}[我前不挂]|考神</item>
   <!-- ◎原有内容 -->
   <!--【TODO 改进Emoji屏蔽】-->
   <!--【严重误伤】 <item enabled="true">r=【Emoji屏蔽A】|[\u1F601-\u1F64F]{3,}</item> -->
@@ -78,7 +80,6 @@
   <item enabled="true">r=【剧透类】|剧透|透剧|人干的|人干事</item>
   <item enabled="true">r=【勾引被撩】|勾引|被撩|撩我|把持不住|先.为敬</item>
   <item enabled="true">r=【XXXbyXX】|[^A-Za-z](by|BY|By)[^A-Za-z]</item>
-  <item enabled="true">r=【考试】|(求|我|祝|保佑).{0,5}[考上]|保佑.{0,5}[我前不挂]|考神</item>
   <item enabled="true">r=【会员是什么】|[什么怎啥].{0,5}会员|会员.{0,5}[什么怎啥啊]|会员.{0,8}世界</item>
   <item enabled="true">r=【xxx我知道你再看】|我知道你.{0,1}[在再能]看|[我只唯][宣爱]</item>
   <item enabled="true">r=【XX的本子我都看过】|(老婆|媳妇|女儿|儿子|孙子)(的){0,}本子|女((朋){0,}友|人|票)(的){0,}本子</item>
@@ -88,7 +89,6 @@
   <item enabled="true">r=【我裤子都脱了】|裤子.{0,3}脱|脱.{0,3}裤子</item>
   <item enabled="true">r=【你够了】|([你尼泥拟]|[真也]).{0,3}[够垢]了</item>
   <item enabled="true">r=【OOXX】|[Oo]{1,}[Xx]{1,}|活塞运动</item>
-  <item enabled="true">r=【见X滚】|((我){0,}就|我(就){0,}).{0,3}来了|^来了$|见(.){0,}[滚滾进]</item>
   <item enabled="true">r=【你行你上】|你行你上|[Yy]ou can you up|can('t|t).*[Bb逼哔]</item>
   <item enabled="true">r=【爱的自杀】|爱的(供[养氧]|自杀)|再问(供[养氧]|自杀)</item>
   <item enabled="true">r=【啪啪啪】|(PA|Pa|pa|啪|帕|拍){3,}|割鸡|小(丁丁|鸡|J|j)|[鸡Jj][巴吧8Bb]|一(硬|石更)</item>
@@ -116,6 +116,8 @@
   <item enabled="true">r=【讽刺隐喻】|某些?人|有些人</item>
   <item enabled="true">r=【摄影师鸡腿】|摄影师.*(鸡腿|贝爷|今晚)</item>
   <item enabled="true">r=【三次元人名】|张杰|郭德[纲肛]|汪[峰涵]|李宇春|春哥|郭敬明|卢本伟</item>
+  <item enabled="true">r=【完结撒花】|完结.*[撒撤散]花</item>
+  <item enabled="true">r=【少看X集】|少看.*[多集季部了]</item>
   <!-- ◎原有内容 -->
   <item enabled="true">r=ＸＸ【非战斗，FBI】|非战斗人员.{0,1}迅速撤离|[Ff][Bb][Ii]|[Ww]arning</item>
   <item enabled="true">r=ＸＸ【233666www】|([23]){10,}|[Ww]{8,}|[6六溜]{10,}</item>
@@ -142,14 +144,12 @@
   <item enabled="true">r=【氪金手游】|乌鸦[坐座]飞机|黑虎阿福|欧气|吸{3,}|玩{3,}|^[好不]玩|[触防猝]不[胜及]防|充钱|充充充|冲[钱了]|氪.?$|我要[充冲].*[亿万百千元]</item>
   <item enabled="true">r=【FGO】|乌鸦[坐座]飞机|黑虎阿福</item>
   <item enabled="true">r=【+1s】|续\d[秒Ss]|\+\ds|苟利|岂因|图样|图森破|[那拿][义一衣][务服]|真正的粉丝</item>
-  <item enabled="true">r=【少看X集】|少看.*[多集季部了]</item>
   <item enabled="true">r=【男女主废】|[男女]主.{0,3}([渣废弱]|没用)</item>
   <item enabled="true">r=【B站看片】|滑稽|网盘见|B.{0,2}片指.{0,2}待|[囤屯]了</item>
   <item enabled="true">r=【上交国家】|上[交缴][郭国]家</item>
   <item enabled="true">r=【三次元神器】|板砖|诺基亚|[Gg][Tt][Xx][①②③④⑤⑥⑦⑧⑨０１２３４５６７８９0-9 〇一二两俩三仨四五六七八九十零百千万亿Ww]{1,3}</item>
   <item enabled="true">r=【二次元神器】|[Ee][Xx]咖喱棒|物理学圣剑|撬棍|贤者之石|死海文书</item>
   <item enabled="true">r=【颜色相关B】|^.{1,3}色$|^\W*(天依蓝|乐正红|言和白|(星尘|基佬)[粉紫]|伊藤橙|胖次[白蓝]|帽子绿|[FfEe][FfEe]0000|66[cfCF][cfCF][fcFC][fcFC]|[Ee][Ee][Ff][Ff][Ee][Ee])\W*$</item>
-  <item enabled="true">r=【完结撒花】|完结.*[撒撤散]花</item>
   <item enabled="true">r=【刷学校名】|.*(小学|附小|中学|初中|高中|附中|中职|高职|职业学院|学院|大学)|^[一二三四五六七八九十]{3,}[小中]</item>
   <item enabled="true">r=【你不是一个人】|你(们){0,}不是\S{1,}个人|\S{1,}字你\S{1,}</item>
   <item enabled="true">r=【伏笔，FLAG】|伏笔|Flag|FLAG|flag|[树竖立]旗|怪我</item>
